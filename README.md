@@ -1,4 +1,4 @@
-# (TESTING ASSIGNMENT) Say Hi API
+# (TESTING ASSIGNMENT #2) Say Hi API
 This repository exists to serve as an example for the CD part of CI/CD.
 
 ### CI
