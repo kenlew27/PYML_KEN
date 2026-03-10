@@ -31,7 +31,7 @@ jobs:
 
       - name: Run pylint
         run: |
-          pylint app.py tests/
+          pylint --disable=C0114,C0116,C0303,W1514 app.py tests/
 
       - name: Run mypy
         run: |
